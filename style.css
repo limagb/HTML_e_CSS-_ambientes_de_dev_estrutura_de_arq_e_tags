@@ -13,10 +13,11 @@ body {
 }
 
 .apresentacao {
-    margin: 10% 15%;
+    margin: 10%;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 58px;
 }
 
 .apresentacao__conteudo {
